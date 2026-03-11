@@ -1,0 +1,8 @@
+{
+  "name": "huston-it-support",
+  "version": "1.0.0",
+  "description": "Internal IT support for Huston Electric employees. Handles Outlook questions, Jonas portal issues, hardware troubleshooting, network connectivity, and escalation to the IT team when needed.",
+  "author": {
+    "name": "Huston Electric, Inc."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "huston-estimating",
+  "version": "1.0.0",
+  "description": "Electrical estimating and drawing analysis for Huston Electric, Inc. Analyze floor plans, count fixtures, fill bid checklists, and prepare apartment bid budgets for accurate project bidding.",
+  "author": {
+    "name": "Huston Electric, Inc."
+  }
+}

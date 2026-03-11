@@ -1,0 +1,8 @@
+{
+  "name": "huston-field-diagnostics",
+  "version": "1.0.0",
+  "description": "Field diagnostics and testing for Huston Electric, Inc. Power quality analysis, infrared scanning interpretation, and comprehensive field diagnostic methodology for electrical systems.",
+  "author": {
+    "name": "Huston Electric, Inc."
+  }
+}

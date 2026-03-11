@@ -110,6 +110,70 @@
       "author": {
         "name": "Tribe AI"
       }
+    },
+    {
+      "name": "huston-service-quoting",
+      "source": "./huston-service-quoting",
+      "description": "Create professional electrical service quotations for Huston Electric, Inc. Covers electrical service, sign, generator, IR scan, and EMP quotations with NECA labor standards, material pricing, and automated document generation.",
+      "author": {
+        "name": "Huston Electric, Inc."
+      }
+    },
+    {
+      "name": "huston-estimating",
+      "source": "./huston-estimating",
+      "description": "Electrical estimating and drawing analysis for Huston Electric, Inc. Analyze floor plans, count fixtures, fill bid checklists, and prepare apartment bid budgets for accurate project bidding.",
+      "author": {
+        "name": "Huston Electric, Inc."
+      }
+    },
+    {
+      "name": "huston-safety",
+      "source": "./huston-safety",
+      "description": "Electrical safety compliance and documentation for Huston Electric, Inc. Safety procedures, OSHA compliance, Project-Specific Safety Plans (PSSP), hazard analysis, and workplace safety protocols.",
+      "author": {
+        "name": "Huston Electric, Inc."
+      }
+    },
+    {
+      "name": "huston-workforce",
+      "source": "./huston-workforce",
+      "description": "Workforce analytics and project scheduling for Huston Electric, Inc. Track union manpower projections, identify staffing needs, build project schedules, and generate workforce planning reports.",
+      "author": {
+        "name": "Huston Electric, Inc."
+      }
+    },
+    {
+      "name": "huston-bid-intelligence",
+      "source": "./huston-bid-intelligence",
+      "description": "Bid tracking, analysis, and strategy for Huston Electric, Inc. Transform bid emails into organized intelligence reports, analyze bid opportunities, and support Tuesday strategy meetings with union-based Excel reports.",
+      "author": {
+        "name": "Huston Electric, Inc."
+      }
+    },
+    {
+      "name": "huston-it-support",
+      "source": "./huston-it-support",
+      "description": "Internal IT support for Huston Electric employees. Handles Outlook questions, Jonas portal issues, hardware troubleshooting, network connectivity, and escalation to the IT team when needed.",
+      "author": {
+        "name": "Huston Electric, Inc."
+      }
+    },
+    {
+      "name": "huston-finance-prequalification",
+      "source": "./huston-finance-prequalification",
+      "description": "Financial prequalification and compliance for Huston Electric, Inc. Automatically fill prequal PDF forms, manage company financial data, and maintain prequalification documentation using past submissions and company knowledge bases.",
+      "author": {
+        "name": "Huston Electric, Inc."
+      }
+    },
+    {
+      "name": "huston-field-diagnostics",
+      "source": "./huston-field-diagnostics",
+      "description": "Field diagnostics and testing for Huston Electric, Inc. Power quality analysis, infrared scanning interpretation, and comprehensive field diagnostic methodology for electrical systems.",
+      "author": {
+        "name": "Huston Electric, Inc."
+      }
     }
   ]
 }

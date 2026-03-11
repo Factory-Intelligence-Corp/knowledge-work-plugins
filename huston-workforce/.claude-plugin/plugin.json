@@ -1,0 +1,8 @@
+{
+  "name": "huston-workforce",
+  "version": "1.0.0",
+  "description": "Workforce analytics and project scheduling for Huston Electric, Inc. Track union manpower projections, identify staffing needs, build project schedules, and generate workforce planning reports.",
+  "author": {
+    "name": "Huston Electric, Inc."
+  }
+}

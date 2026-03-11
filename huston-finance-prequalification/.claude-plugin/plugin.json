@@ -1,0 +1,8 @@
+{
+  "name": "huston-finance-prequalification",
+  "version": "1.0.0",
+  "description": "Financial prequalification and compliance for Huston Electric, Inc. Automatically fill prequal PDF forms, manage company financial data, and maintain prequalification documentation using past submissions and company knowledge bases.",
+  "author": {
+    "name": "Huston Electric, Inc."
+  }
+}
