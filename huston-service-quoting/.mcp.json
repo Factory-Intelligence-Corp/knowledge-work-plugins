@@ -1,0 +1,28 @@
+{
+  "mcpServers": {
+    "knowledge-base": {
+      "type": "http",
+      "url": "https://kb.hustonelectric.com/mcp"
+    },
+    "document-generation": {
+      "type": "http",
+      "url": "https://docs.hustonelectric.com/mcp"
+    },
+    "email": {
+      "type": "http",
+      "url": "https://mail.hustonelectric.com/mcp"
+    },
+    "crm": {
+      "type": "http",
+      "url": "https://crm.hustonelectric.com/mcp"
+    },
+    "gmail": {
+      "type": "http",
+      "url": "https://gmail.mcp.claude.com/mcp"
+    },
+    "ms365": {
+      "type": "http",
+      "url": "https://microsoft365.mcp.claude.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "huston-bid-intelligence",
+  "version": "1.0.0",
+  "description": "Bid tracking, analysis, and strategy for Huston Electric, Inc. Transform bid emails into organized intelligence reports, analyze bid opportunities, and support Tuesday strategy meetings with union-based Excel reports.",
+  "author": {
+    "name": "Huston Electric, Inc."
+  }
+}

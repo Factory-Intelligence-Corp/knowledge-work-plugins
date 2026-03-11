@@ -1,0 +1,8 @@
+{
+  "name": "huston-service-quoting",
+  "version": "1.0.0",
+  "description": "Create professional electrical service quotations for Huston Electric, Inc. Covers electrical service, sign, generator, IR scan, and EMP quotations with NECA labor standards, material pricing, and automated document generation.",
+  "author": {
+    "name": "Huston Electric, Inc."
+  }
+}

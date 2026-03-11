@@ -1,0 +1,32 @@
+{
+  "mcpServers": {
+    "knowledge-base": {
+      "type": "http",
+      "url": "https://mcp.hustonelectric.com/knowledge-base"
+    },
+    "document-generation": {
+      "type": "http",
+      "url": "https://mcp.hustonelectric.com/document-generation"
+    },
+    "file-storage": {
+      "type": "http",
+      "url": "https://mcp.hustonelectric.com/file-storage"
+    },
+    "procore": {
+      "type": "http",
+      "url": "https://mcp.procore.com/mcp"
+    },
+    "plangrid": {
+      "type": "http",
+      "url": "https://mcp.plangrid.com/mcp"
+    },
+    "notion": {
+      "type": "http",
+      "url": "https://mcp.notion.com/mcp"
+    },
+    "ms365": {
+      "type": "http",
+      "url": "https://microsoft365.mcp.claude.com/mcp"
+    }
+  }
+}
